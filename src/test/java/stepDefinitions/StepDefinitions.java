@@ -7,4 +7,8 @@ import io.cucumber.java.en.When;
 
 import static org.junit.Assert.assertEquals;
 public class StepDefinitions {
-}
+    {
+        System.out.println("hej");
+    }
+    }
+
