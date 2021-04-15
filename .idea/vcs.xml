@@ -2,9 +2,13 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
 =======
     <mapping directory="" vcs="Git" />
 >>>>>>> a004ba1 (Marie commit)
+=======
+    <mapping directory="" vcs="Git" />
+>>>>>>> origin/master
   </component>
 </project>
