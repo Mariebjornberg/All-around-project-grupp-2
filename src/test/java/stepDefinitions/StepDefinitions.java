@@ -7,10 +7,4 @@ import io.cucumber.java.en.When;
 
 import static org.junit.Assert.assertEquals;
 public class StepDefinitions {
-
-    {
-        System.out.println("o");
-        System.out.println("Funger detta?");
-
-    }
 }
